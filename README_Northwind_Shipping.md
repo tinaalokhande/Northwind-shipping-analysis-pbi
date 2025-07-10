@@ -92,7 +92,6 @@ To explore this dashboard:
 
 **Tina Lokhande**  
 Data Analyst | Power BI Enthusiast  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
 
 ---
 
